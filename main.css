@@ -58,3 +58,28 @@ text-align: center;
     line-height: 26px;
     text-align: center;
 }
+.choose-card{
+    background-color: #0E8784;
+
+}
+.aylana{
+    width: 25px;
+    height: 25px;
+    display: block;
+    border: solid 2px #0E8784;
+    
+}
+.line{
+width: 150px;    
+height: 2px;
+ border: 2px solid rgba(253, 214, 186, 1)
+}
+i{
+color: #fff;
+    margin-right: 30px;
+    font-size: 20px;
+}
+  /* About-section */
+  .main-card{
+    background-image: url(./images/Group\ 7\ \(1\).png);
+  }
